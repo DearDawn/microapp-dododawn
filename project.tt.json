@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "microapp-dododawn",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
